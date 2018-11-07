@@ -1,0 +1,3 @@
+Welcome! Please choose one of the following maps: 
+Cairo    Hamilton    Moscow    New York    Toronto
+To exit the program. Type Exit

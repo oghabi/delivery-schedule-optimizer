@@ -1,0 +1,1034 @@
+Thank You for Using Our Interface!
+The Following List Explains the Use of the Buttons on the Side of the Interface to Make Your Life Easier!
+X: This button is used in case you make any mistakes. You can press it and simply start over again
+Dist 2 Pts: Click 2 points or type in 2 intersection names. Click this button to get the shortest route between them
+Courier: Click on a set of points. Click this button to find the quickest route through all these points. Used by courier companies.
+POI range: Click a point or type in an intersection name. Enter a radius. Click this button and you will get all the POIs in that range of the chosen point or intersection
+POIs ON: Shows all the POIs on the map as red dots
+Loading binary database from file '/cad2/ece297s/public/maps/toronto.bin'
+INFO: Loaded 13271 features
+
+
+YAOOO: 36.7971
+7.9827e-05
+162
+23162  SPACE  151759
+NUM: 8
+
+1
+
+1
+4952
+
+POI Name: Gamma-Dynacare Medical Laboratories  | POI IDs:  
+8848  ,  8849  ,  
+POI Name: Destiny  | POI IDs:  
+8688  ,  8747  ,  
+POI Name: Post City Magazines  | POI IDs:  
+8563  ,  8564  ,  
+POI Name: car2go  | POI IDs:  
+8554  ,  8555  ,  8597  ,  
+POI Name: Toronto Star, Toronto Sun  | POI IDs:  
+8346  ,  8368  ,  
+POI Name: Jack Astors  | POI IDs:  
+8090  ,  8375  ,  
+POI Name: Hospital News  | POI IDs:  
+8011  ,  8367  ,  8369  ,  8370  ,  
+POI Name: Upper Beach Health & Wellness  | POI IDs:  
+7923  ,  7926  ,  
+POI Name: Welcome Guardian Pharmacy  | POI IDs:  
+353  ,  7676  ,  
+POI Name: King  | POI IDs:  
+46  ,  2797  ,  
+POI Name: Brookfield Place Underground Parking  | POI IDs:  
+483  ,  5648  ,  
+POI Name: Pickle Barrel  | POI IDs:  
+4048  ,  5391  ,  5574  ,  6051  ,  6596  ,  8753  ,  
+POI Name: Phoenix Restaurant  | POI IDs:  
+7406  ,  8541  ,  
+POI Name: California Sandwiches  | POI IDs:  
+311  ,  3794  ,  4494  ,  5470  ,  6061  ,  7480  ,  
+POI Name: Mercatto Restaurant  | POI IDs:  
+605  ,  3723  ,  
+POI Name: TriOS College  | POI IDs:  
+3961  ,  6977  ,  7095  ,  
+POI Name: Montana's Cookhouse  | POI IDs:  
+3835  ,  8783  ,  
+POI Name: enterprise rent-a-car  | POI IDs:  
+8519  ,  8900  ,  
+POI Name: Starbucks  | POI IDs:  
+6631  ,  6887  ,  7062  ,  7759  ,  7816  ,  7862  ,  8388  ,  8678  ,  
+POI Name: Fionn MacCool's Irish Pub  | POI IDs:  
+599  ,  2805  ,  
+POI Name: Ali Baba's  | POI IDs:  
+2845  ,  3623  ,  4325  ,  4775  ,  
+POI Name: Metro Toronto Convention Centre Parking  | POI IDs:  
+3689  ,  3690  ,  
+POI Name: Caribbean Queen  | POI IDs:  
+808  ,  4043  ,  4371  ,  
+POI Name: RBC  | POI IDs:  
+642  ,  692  ,  788  ,  1974  ,  2435  ,  2445  ,  2512  ,  2533  ,  2679  ,  2764  ,  2870  ,  3096  ,  3445  ,  3472  ,  3537  ,  3684  ,  4307  ,  4481  ,  4790  ,  4868  ,  5279  ,  5317  ,  5328  ,  5444  ,  5533  ,  5549  ,  5954  ,  6032  ,  6143  ,  6173  ,  6177  ,  6219  ,  6522  ,  6694  ,  6818  ,  6907  ,  7005  ,  7204  ,  7779  ,  7913  ,  8418  ,  8801  ,  8947  ,  
+POI Name: Dental Clinic  | POI IDs:  
+3638  ,  4676  ,  5388  ,  7788  ,  
+POI Name: Medical Centre  | POI IDs:  
+3635  ,  4097  ,  4703  ,  8704  ,  
+POI Name: ICICI Bank  | POI IDs:  
+3307  ,  8842  ,  
+POI Name: Manpower  | POI IDs:  
+3578  ,  3676  ,  
+POI Name: Tenant parking  | POI IDs:  
+3509  ,  3519  ,  4661  ,  4717  ,  4883  ,  4884  ,  
+POI Name: Dentist  | POI IDs:  
+4929  ,  5530  ,  5734  ,  
+POI Name: Tandori Indian Cuisine  | POI IDs:  
+3480  ,  4575  ,  
+POI Name: Smokes Poutinerie  | POI IDs:  
+3460  ,  3486  ,  
+POI Name: Info to Go  | POI IDs:  
+1660  ,  1682  ,  
+POI Name: Anytime Fitness  | POI IDs:  
+7571  ,  8016  ,  8182  ,  
+POI Name: Mr. Jerk  | POI IDs:  
+4052  ,  8981  ,  
+POI Name: Piazza Manna  | POI IDs:  
+3150  ,  4303  ,  4456  ,  8260  ,  
+POI Name: Pumpernickel's  | POI IDs:  
+2542  ,  4296  ,  4446  ,  4472  ,  5515  ,  8261  ,  
+POI Name: Moxie's  | POI IDs:  
+6595  ,  7998  ,  
+POI Name: Scarborough Centre for Alternative Studies  | POI IDs:  
+2249  ,  7156  ,  
+POI Name: Walk-In Clinic  | POI IDs:  
+3227  ,  4930  ,  
+POI Name: Popeyes Louisiana Kitchen  | POI IDs:  
+617  ,  2028  ,  2706  ,  4328  ,  6651  ,  
+POI Name: Shopsy's  | POI IDs:  
+3428  ,  3659  ,  
+POI Name: Fox and Fiddle  | POI IDs:  
+347  ,  1871  ,  1903  ,  2452  ,  3090  ,  5206  ,  7202  ,  7961  ,  8481  ,  
+POI Name: Grinder  | POI IDs:  
+3754  ,  3801  ,  
+POI Name: Canadian Tire Gas+  | POI IDs:  
+3198  ,  8548  ,  
+POI Name: Wild Wing  | POI IDs:  
+3171  ,  5542  ,  5661  ,  5676  ,  5815  ,  5963  ,  6060  ,  6307  ,  7482  ,  7774  ,  7867  ,  8143  ,  8287  ,  
+POI Name: Bay  | POI IDs:  
+4  ,  909  ,  910  ,  2097  ,  
+POI Name: Alliance Franaise  | POI IDs:  
+3117  ,  5377  ,  
+POI Name: Bell  | POI IDs:  
+3102  ,  3153  ,  4390  ,  5050  ,  5828  ,  
+POI Name: Remedy's Rx  | POI IDs:  
+3084  ,  7381  ,  
+POI Name: Sam James Coffee Bar  | POI IDs:  
+3072  ,  7129  ,  
+POI Name: Dollar/Thrifty  | POI IDs:  
+3069  ,  4072  ,  
+POI Name: Discount  | POI IDs:  
+3034  ,  5885  ,  7023  ,  8475  ,  
+POI Name: Big Smoke Burger  | POI IDs:  
+3027  ,  4873  ,  6479  ,  
+POI Name: Burrito Boyz  | POI IDs:  
+3505  ,  5973  ,  6068  ,  6645  ,  7980  ,  8003  ,  
+POI Name: Budget  | POI IDs:  
+2567  ,  7024  ,  8359  ,  8673  ,  
+POI Name: Chef of India  | POI IDs:  
+2974  ,  4240  ,  
+POI Name: Panago  | POI IDs:  
+2402  ,  2783  ,  3503  ,  5018  ,  5524  ,  5629  ,  
+POI Name: Yogen Frz  | POI IDs:  
+2967  ,  4351  ,  6514  ,  6667  ,  
+POI Name: Mr Souvlaki  | POI IDs:  
+4447  ,  7044  ,  
+POI Name: Ghazale  | POI IDs:  
+5554  ,  5739  ,  
+POI Name: The Bagel House  | POI IDs:  
+4399  ,  5180  ,  7565  ,  
+POI Name: Oxford Learning Centre  | POI IDs:  
+2914  ,  8210  ,  
+POI Name: Smoke's Poutinerie  | POI IDs:  
+3557  ,  8423  ,  
+POI Name: Jerusalem Restaurant  | POI IDs:  
+765  ,  6926  ,  
+POI Name: Enterprise  | POI IDs:  
+2881  ,  4010  ,  4853  ,  
+POI Name: Bixi Bike Sharing  | POI IDs:  
+4750  ,  4849  ,  5143  ,  5421  ,  6124  ,  7112  ,  7177  ,  8952  ,  8953  ,  8954  ,  8955  ,  8956  ,  8957  ,  8958  ,  8959  ,  8960  ,  8961  ,  8962  ,  8963  ,  
+POI Name: Korean Grill House  | POI IDs:  
+2843  ,  3035  ,  7978  ,  
+POI Name: Hoops Sports Bar & Grill  | POI IDs:  
+1751  ,  4341  ,  
+POI Name: Tandoori Flame  | POI IDs:  
+5234  ,  7388  ,  
+POI Name: Sunoco  | POI IDs:  
+1185  ,  1311  ,  1458  ,  2360  ,  2811  ,  
+POI Name: Scruffy Murphy's Irish Pub  | POI IDs:  
+5193  ,  6176  ,  
+POI Name: Pickle Barrel Grand  | POI IDs:  
+1791  ,  6584  ,  
+POI Name: Menchie's Frozen Yogurt  | POI IDs:  
+3013  ,  7797  ,  
+POI Name: Hertz Equipment Rental  | POI IDs:  
+1032  ,  2125  ,  
+POI Name: 2-4-1 Pizza  | POI IDs:  
+3403  ,  6586  ,  
+POI Name: Souvlaki Express  | POI IDs:  
+4060  ,  4855  ,  
+POI Name: Mr. Greek Express  | POI IDs:  
+5751  ,  8517  ,  
+POI Name: Baskin Robbins  | POI IDs:  
+632  ,  727  ,  1383  ,  1543  ,  1610  ,  1724  ,  2540  ,  2672  ,  2988  ,  4047  ,  4617  ,  6035  ,  6934  ,  7049  ,  
+POI Name: Extreme Pita  | POI IDs:  
+3693  ,  4616  ,  5013  ,  5581  ,  5748  ,  6028  ,  6393  ,  8505  ,  
+POI Name: Fresh  | POI IDs:  
+2583  ,  4210  ,  
+POI Name: Continental Currency Exchange  | POI IDs:  
+2537  ,  6510  ,  
+POI Name: The Great Canadian Bagel  | POI IDs:  
+1637  ,  4174  ,  
+POI Name: Druxy's  | POI IDs:  
+3930  ,  4714  ,  
+POI Name: Select Sandwich Co.  | POI IDs:  
+3710  ,  5403  ,  
+POI Name: Congee Queen  | POI IDs:  
+2420  ,  8502  ,  
+POI Name: Retro Burger  | POI IDs:  
+3965  ,  7067  ,  
+POI Name: Jimmy's Coffee  | POI IDs:  
+8948  ,  8949  ,  8950  ,  
+POI Name: Gabby's  | POI IDs:  
+428  ,  1215  ,  2513  ,  2569  ,  5767  ,  
+POI Name: Everest College  | POI IDs:  
+2380  ,  4732  ,  8575  ,  
+POI Name: Econo  | POI IDs:  
+1237  ,  1270  ,  8788  ,  
+POI Name: Post Office  | POI IDs:  
+3360  ,  6311  ,  
+POI Name: Famous Players  | POI IDs:  
+556  ,  1953  ,  
+POI Name: Orthodontist  | POI IDs:  
+4641  ,  5479  ,  8164  ,  
+POI Name: Money Mart  | POI IDs:  
+4292  ,  4586  ,  5049  ,  6727  ,  
+POI Name: Lansdowne  | POI IDs:  
+6  ,  147  ,  8280  ,  
+POI Name: JobStart  | POI IDs:  
+2216  ,  3931  ,  
+POI Name: t.o.night  | POI IDs:  
+8372  ,  8626  ,  
+POI Name: Chuck E Cheese's  | POI IDs:  
+3201  ,  4685  ,  
+POI Name: Runnymede  | POI IDs:  
+2161  ,  6939  ,  
+POI Name: High Park  | POI IDs:  
+2160  ,  2617  ,  8666  ,  
+POI Name: DQ  | POI IDs:  
+6698  ,  8323  ,  
+POI Name: Metro  | POI IDs:  
+2153  ,  7516  ,  8545  ,  8659  ,  8714  ,  8719  ,  8723  ,  
+POI Name: Popeye's  | POI IDs:  
+5248  ,  6342  ,  6387  ,  7195  ,  8288  ,  
+POI Name: Mr Sub  | POI IDs:  
+2107  ,  4125  ,  5267  ,  6886  ,  
+POI Name: Mandarin  | POI IDs:  
+1739  ,  5268  ,  6072  ,  7620  ,  8067  ,  8574  ,  
+POI Name: Coca-Cola Freestyle  | POI IDs:  
+6865  ,  8569  ,  8570  ,  
+POI Name: Souvlaki Hut  | POI IDs:  
+6075  ,  6166  ,  6395  ,  7027  ,  
+POI Name: Hertz  | POI IDs:  
+2065  ,  2238  ,  3046  ,  3414  ,  6412  ,  
+POI Name: Montana's  | POI IDs:  
+2063  ,  2345  ,  5364  ,  5507  ,  5541  ,  6000  ,  6078  ,  6303  ,  6897  ,  
+POI Name: Swiss Chalet Express  | POI IDs:  
+845  ,  2673  ,  4926  ,  
+POI Name: Harvey's/Swiss Chalet  | POI IDs:  
+829  ,  2782  ,  
+POI Name: The Medicine Shoppe Pharmacy  | POI IDs:  
+179  ,  4615  ,  
+POI Name: Vanelli's  | POI IDs:  
+3571  ,  4718  ,  7486  ,  
+POI Name: Manchu Wok  | POI IDs:  
+758  ,  1754  ,  1908  ,  2197  ,  2960  ,  2973  ,  3742  ,  3806  ,  3966  ,  4452  ,  4547  ,  6487  ,  6661  ,  6979  ,  
+POI Name: North York Centre  | POI IDs:  
+124  ,  2732  ,  3798  ,  
+POI Name: Rosedale Dental Centre  | POI IDs:  
+4261  ,  8321  ,  
+POI Name: Cora  | POI IDs:  
+1291  ,  6066  ,  
+POI Name: Cango  | POI IDs:  
+1851  ,  6791  ,  7326  ,  
+POI Name: Peoples Drug Mart  | POI IDs:  
+1145  ,  2915  ,  
+POI Name: Old Mill  | POI IDs:  
+121  ,  1023  ,  
+POI Name: Olco  | POI IDs:  
+517  ,  1108  ,  2225  ,  2366  ,  2859  ,  
+POI Name: ICL Medical Lab  | POI IDs:  
+2620  ,  4028  ,  
+POI Name: Fran's Restaurant  | POI IDs:  
+657  ,  3634  ,  5412  ,  
+POI Name: Pita & Grill  | POI IDs:  
+2401  ,  5356  ,  8478  ,  
+POI Name: Downsview  | POI IDs:  
+2140  ,  4164  ,  
+POI Name: Taco Del Mar  | POI IDs:  
+5756  ,  7745  ,  
+POI Name: Dairy Queen/Orange Julius  | POI IDs:  
+1747  ,  1750  ,  
+POI Name: A&W  | POI IDs:  
+611  ,  1624  ,  1755  ,  1809  ,  1834  ,  2962  ,  3573  ,  4117  ,  4497  ,  4517  ,  5028  ,  6477  ,  6879  ,  8154  ,  8204  ,  
+POI Name: Lick's  | POI IDs:  
+1172  ,  1971  ,  2432  ,  3269  ,  6064  ,  7614  ,  8706  ,  
+POI Name: OLCO  | POI IDs:  
+241  ,  1267  ,  
+POI Name: La Prep  | POI IDs:  
+590  ,  3605  ,  4180  ,  4280  ,  4435  ,  4594  ,  4803  ,  7267  ,  
+POI Name: New York Fries  | POI IDs:  
+756  ,  2958  ,  3145  ,  4541  ,  6488  ,  7275  ,  
+POI Name: Kennedy  | POI IDs:  
+30  ,  2177  ,  3436  ,  
+POI Name: KFC  | POI IDs:  
+516  ,  673  ,  760  ,  850  ,  1038  ,  1206  ,  1374  ,  1479  ,  1497  ,  1985  ,  2190  ,  2304  ,  2476  ,  2481  ,  3468  ,  3588  ,  3860  ,  3884  ,  4548  ,  5841  ,  6057  ,  6461  ,  6485  ,  6665  ,  6881  ,  8558  ,  8780  ,  
+POI Name: Ukrainian Credit Union  | POI IDs:  
+1998  ,  8577  ,  
+POI Name: Museum  | POI IDs:  
+2693  ,  6712  ,  6713  ,  6714  ,  6715  ,  
+POI Name: Foreign Exchange Centre  | POI IDs:  
+2126  ,  4483  ,  
+POI Name: Da Leonardo Bistro  | POI IDs:  
+5722  ,  6861  ,  
+POI Name: Sheppard-Yonge  | POI IDs:  
+106  ,  474  ,  1626  ,  1627  ,  3949  ,  3950  ,  
+POI Name: Dynasty Chinese Cuisine  | POI IDs:  
+3970  ,  4656  ,  7545  ,  
+POI Name: Denture Clinic  | POI IDs:  
+4364  ,  6296  ,  
+POI Name: The Hincks-Dellcrest Centre  | POI IDs:  
+3778  ,  7231  ,  
+POI Name: Pape  | POI IDs:  
+37  ,  742  ,  
+POI Name: Pizzaiolo  | POI IDs:  
+942  ,  1687  ,  2468  ,  2590  ,  2597  ,  2722  ,  2882  ,  3272  ,  3666  ,  4057  ,  4157  ,  4474  ,  4810  ,  4811  ,  4812  ,  4813  ,  4814  ,  4815  ,  4816  ,  5331  ,  6220  ,  6983  ,  7007  ,  7066  ,  8209  ,  8336  ,  
+POI Name: Aroma Espresso Bar  | POI IDs:  
+816  ,  3250  ,  4121  ,  4126  ,  8926  ,  
+POI Name: York Mills  | POI IDs:  
+108  ,  702  ,  703  ,  2505  ,  2743  ,  
+POI Name: Pizza Depot  | POI IDs:  
+5704  ,  6331  ,  8102  ,  
+POI Name: X-Ray and Ultrasound  | POI IDs:  
+1547  ,  6577  ,  
+POI Name: Chipotle  | POI IDs:  
+6481  ,  8629  ,  
+POI Name: Lawrence East  | POI IDs:  
+429  ,  3485  ,  
+POI Name: Scotiabank  | POI IDs:  
+91  ,  117  ,  131  ,  177  ,  198  ,  264  ,  294  ,  397  ,  422  ,  425  ,  439  ,  475  ,  532  ,  577  ,  664  ,  676  ,  813  ,  992  ,  1008  ,  1027  ,  1120  ,  1125  ,  1194  ,  1289  ,  1330  ,  1341  ,  1364  ,  1470  ,  1500  ,  1584  ,  1600  ,  1621  ,  1635  ,  1642  ,  1722  ,  1738  ,  1779  ,  1856  ,  1878  ,  1886  ,  1988  ,  1999  ,  2010  ,  2056  ,  2154  ,  2189  ,  2206  ,  2211  ,  2453  ,  2506  ,  2511  ,  2535  ,  2552  ,  2654  ,  2680  ,  2684  ,  2711  ,  2757  ,  3092  ,  3173  ,  3429  ,  3709  ,  4171  ,  4209  ,  4563  ,  4623  ,  4771  ,  5032  ,  5411  ,  5837  ,  5910  ,  6045  ,  6098  ,  6181  ,  6240  ,  6247  ,  6325  ,  6500  ,  7084  ,  7197  ,  7260  ,  7261  ,  7434  ,  7669  ,  7748  ,  7821  ,  7834  ,  7911  ,  7914  ,  8033  ,  8167  ,  8219  ,  8312  ,  8371  ,  8534  ,  8568  ,  8667  ,  8682  ,  8754  ,  8776  ,  8791  ,  8802  ,  8815  ,  8847  ,  8969  ,  8985  ,  
+POI Name: FedEx Office Print and Ship Center  | POI IDs:  
+506  ,  2560  ,  3004  ,  3726  ,  5000  ,  5611  ,  7440  ,  8155  ,  8245  ,  
+POI Name: Kumon  | POI IDs:  
+3768  ,  7878  ,  8089  ,  
+POI Name: National Bank  | POI IDs:  
+63  ,  78  ,  291  ,  1263  ,  1457  ,  2178  ,  2234  ,  2462  ,  4564  ,  5251  ,  5457  ,  7506  ,  7912  ,  8035  ,  8763  ,  8882  ,  
+POI Name: 7-Eleven  | POI IDs:  
+297  ,  307  ,  3199  ,  3377  ,  
+POI Name: Tangerine  | POI IDs:  
+997  ,  6565  ,  8628  ,  
+POI Name: Teaopia  | POI IDs:  
+2419  ,  4514  ,  
+POI Name: Caledonia  | POI IDs:  
+373  ,  7578  ,  
+POI Name: Car Wash  | POI IDs:  
+7917  ,  8039  ,  
+POI Name: Desjardins  | POI IDs:  
+479  ,  2232  ,  8751  ,  
+POI Name: Turtle Jack's  | POI IDs:  
+5320  ,  5361  ,  6946  ,  
+POI Name: Swiss Chalet  | POI IDs:  
+680  ,  786  ,  801  ,  1305  ,  1385  ,  1594  ,  1699  ,  1793  ,  1803  ,  1970  ,  2026  ,  2133  ,  2221  ,  2298  ,  2356  ,  2543  ,  2744  ,  2778  ,  3182  ,  3357  ,  3646  ,  4257  ,  4363  ,  4842  ,  5004  ,  5135  ,  5239  ,  5311  ,  5534  ,  5632  ,  6994  ,  7002  ,  7342  ,  7898  ,  7931  ,  8140  ,  8313  ,  8509  ,  8893  ,  
+POI Name: Eglinton West  | POI IDs:  
+92  ,  2393  ,  
+POI Name: Red Lobster  | POI IDs:  
+450  ,  929  ,  1170  ,  1328  ,  5291  ,  6052  ,  6448  ,  
+POI Name: ESSO  | POI IDs:  
+1439  ,  1460  ,  1990  ,  1994  ,  5955  ,  
+POI Name: Fionn MacCool's  | POI IDs:  
+3080  ,  7945  ,  8796  ,  
+POI Name: Autoshare  | POI IDs:  
+738  ,  1225  ,  1344  ,  2503  ,  3047  ,  3122  ,  4857  ,  8097  ,  8724  ,  
+POI Name: Gourmet Burger Co.  | POI IDs:  
+6749  ,  7369  ,  
+POI Name: Kelsey's  | POI IDs:  
+1352  ,  1394  ,  1702  ,  2163  ,  3191  ,  3237  ,  3975  ,  5137  ,  5308  ,  5540  ,  6077  ,  6391  ,  6956  ,  8746  ,  
+POI Name: Tea Shop 168  | POI IDs:  
+1050  ,  1796  ,  2577  ,  2903  ,  4950  ,  5907  ,  8361  ,  
+POI Name: St. Louis  | POI IDs:  
+2093  ,  2105  ,  4533  ,  5064  ,  5886  ,  
+POI Name: Total Health Pharmacy  | POI IDs:  
+171  ,  5543  ,  6835  ,  
+POI Name: Mr. Sub  | POI IDs:  
+322  ,  528  ,  725  ,  800  ,  807  ,  1110  ,  1209  ,  1309  ,  1340  ,  1377  ,  1408  ,  1463  ,  1493  ,  1527  ,  1614  ,  1640  ,  1707  ,  1711  ,  1846  ,  1874  ,  1958  ,  1989  ,  2033  ,  2175  ,  2292  ,  2352  ,  2361  ,  2395  ,  2407  ,  2785  ,  2807  ,  2896  ,  2942  ,  2991  ,  3316  ,  3349  ,  3880  ,  4075  ,  4413  ,  4598  ,  5006  ,  5227  ,  5257  ,  5476  ,  5719  ,  5773  ,  5842  ,  5945  ,  6069  ,  6226  ,  6456  ,  6709  ,  6751  ,  7432  ,  8132  ,  8291  ,  
+POI Name: Wendy's  | POI IDs:  
+529  ,  1433  ,  2074  ,  2149  ,  2547  ,  2644  ,  2813  ,  3190  ,  3264  ,  3371  ,  3831  ,  3959  ,  4016  ,  4348  ,  4999  ,  5310  ,  5344  ,  5357  ,  5943  ,  5969  ,  6081  ,  6125  ,  6216  ,  6588  ,  6825  ,  8451  ,  8781  ,  8838  ,  8855  ,  
+POI Name: Avenue  | POI IDs:  
+142  ,  8739  ,  
+POI Name: Broadview  | POI IDs:  
+36  ,  2106  ,  
+POI Name: The Doctor's Office  | POI IDs:  
+4224  ,  4361  ,  
+POI Name: Wendy's/Tim Hortons  | POI IDs:  
+1336  ,  1447  ,  8945  ,  8951  ,  
+POI Name: Yorkdale  | POI IDs:  
+94  ,  925  ,  2665  ,  2666  ,  
+POI Name: Starbucks Coffee  | POI IDs:  
+80  ,  119  ,  158  ,  160  ,  214  ,  238  ,  278  ,  283  ,  302  ,  306  ,  315  ,  340  ,  345  ,  377  ,  381  ,  489  ,  531  ,  537  ,  579  ,  630  ,  639  ,  654  ,  660  ,  678  ,  734  ,  745  ,  755  ,  794  ,  824  ,  836  ,  844  ,  944  ,  956  ,  998  ,  1144  ,  1196  ,  1239  ,  1247  ,  1253  ,  1285  ,  1351  ,  1373  ,  1410  ,  1538  ,  1651  ,  1680  ,  1705  ,  1723  ,  1734  ,  1745  ,  1785  ,  1790  ,  1885  ,  1896  ,  1965  ,  2002  ,  2041  ,  2138  ,  2220  ,  2297  ,  2326  ,  2328  ,  2332  ,  2344  ,  2346  ,  2371  ,  2418  ,  2520  ,  2562  ,  2566  ,  2676  ,  2690  ,  2698  ,  2712  ,  2738  ,  2781  ,  2788  ,  2798  ,  2803  ,  3110  ,  3133  ,  3138  ,  3189  ,  3273  ,  3274  ,  3287  ,  3296  ,  3391  ,  3425  ,  3463  ,  3464  ,  3473  ,  3477  ,  3508  ,  3572  ,  3607  ,  3644  ,  3652  ,  3907  ,  3920  ,  3983  ,  4382  ,  4426  ,  4626  ,  4726  ,  4825  ,  4831  ,  4847  ,  4987  ,  5005  ,  5401  ,  5481  ,  5496  ,  5571  ,  5628  ,  5637  ,  5663  ,  5741  ,  5753  ,  5810  ,  5825  ,  5869  ,  5888  ,  5933  ,  5964  ,  6007  ,  6027  ,  6054  ,  6306  ,  6319  ,  6501  ,  6532  ,  6547  ,  6600  ,  6901  ,  6962  ,  6965  ,  7026  ,  7078  ,  7106  ,  7211  ,  7251  ,  7316  ,  7373  ,  7419  ,  7424  ,  7449  ,  7469  ,  7505  ,  7524  ,  7529  ,  7601  ,  7733  ,  7738  ,  7808  ,  7959  ,  8113  ,  8134  ,  8179  ,  8218  ,  8247  ,  8389  ,  8630  ,  8676  ,  8711  ,  8743  ,  8756  ,  8758  ,  8874  ,  
+POI Name: RBC Royal Bank  | POI IDs:  
+68  ,  527  ,  722  ,  1749  ,  2925  ,  3375  ,  4129  ,  4710  ,  4734  ,  4818  ,  5213  ,  5563  ,  5967  ,  6117  ,  6633  ,  6638  ,  6776  ,  6860  ,  7501  ,  7838  ,  8166  ,  8540  ,  8576  ,  8677  ,  8679  ,  8710  ,  
+POI Name: College  | POI IDs:  
+48  ,  509  ,  1129  ,  3259  ,  
+POI Name: Burger King  | POI IDs:  
+64  ,  618  ,  736  ,  798  ,  1183  ,  1281  ,  1290  ,  1849  ,  1973  ,  2147  ,  2531  ,  2891  ,  3143  ,  3210  ,  3282  ,  3743  ,  5294  ,  5307  ,  6031  ,  6036  ,  6873  ,  8054  ,  8750  ,  
+POI Name: Treats Coffee Emporium  | POI IDs:  
+2267  ,  4495  ,  
+POI Name: Red Rocket Coffee  | POI IDs:  
+2318  ,  5125  ,  
+POI Name: MCI The Doctor's Office  | POI IDs:  
+5385  ,  6752  ,  
+POI Name: Eglinton  | POI IDs:  
+40  ,  102  ,  936  ,  1729  ,  1730  ,  1731  ,  1732  ,  4864  ,  
+POI Name: Leslie  | POI IDs:  
+105  ,  432  ,  433  ,  434  ,  
+POI Name: Shell  | POI IDs:  
+114  ,  250  ,  271  ,  282  ,  378  ,  401  ,  403  ,  407  ,  435  ,  484  ,  701  ,  865  ,  874  ,  878  ,  884  ,  893  ,  894  ,  899  ,  904  ,  933  ,  1002  ,  1052  ,  1073  ,  1092  ,  1104  ,  1111  ,  1130  ,  1181  ,  1256  ,  1273  ,  1278  ,  1286  ,  1312  ,  1332  ,  1375  ,  1391  ,  1396  ,  1434  ,  1464  ,  1524  ,  1535  ,  1583  ,  1595  ,  1603  ,  1776  ,  1821  ,  1859  ,  1860  ,  1882  ,  1972  ,  1982  ,  2008  ,  2086  ,  2180  ,  2290  ,  2305  ,  2351  ,  2554  ,  2763  ,  2773  ,  2815  ,  3157  ,  3313  ,  3315  ,  3466  ,  3889  ,  3977  ,  4086  ,  5451  ,  5503  ,  5523  ,  5551  ,  5578  ,  5652  ,  5653  ,  5858  ,  5912  ,  6009  ,  6146  ,  6283  ,  6454  ,  6721  ,  6890  ,  6951  ,  7173  ,  7379  ,  7613  ,  7616  ,  7666  ,  8031  ,  8112  ,  8135  ,  8446  ,  8470  ,  8857  ,  
+POI Name: Yogurty's  | POI IDs:  
+4762  ,  7059  ,  8216  ,  8317  ,  8687  ,  
+POI Name: Fit for Life  | POI IDs:  
+766  ,  2601  ,  2892  ,  3482  ,  4222  ,  5594  ,  8533  ,  
+POI Name: Lawrence  | POI IDs:  
+103  ,  1742  ,  1743  ,  2509  ,  2510  ,  3993  ,  
+POI Name: Tim Hortons  | POI IDs:  
+86  ,  118  ,  157  ,  194  ,  251  ,  316  ,  343  ,  376  ,  415  ,  485  ,  505  ,  513  ,  519  ,  543  ,  561  ,  592  ,  600  ,  612  ,  706  ,  732  ,  739  ,  753  ,  771  ,  901  ,  908  ,  999  ,  1000  ,  1051  ,  1059  ,  1163  ,  1180  ,  1233  ,  1272  ,  1307  ,  1321  ,  1371  ,  1400  ,  1403  ,  1417  ,  1431  ,  1462  ,  1484  ,  1491  ,  1645  ,  1667  ,  1681  ,  1685  ,  1708  ,  1709  ,  1733  ,  1772  ,  1824  ,  1852  ,  1892  ,  1912  ,  1959  ,  2001  ,  2009  ,  2021  ,  2031  ,  2058  ,  2096  ,  2148  ,  2169  ,  2202  ,  2217  ,  2233  ,  2246  ,  2259  ,  2260  ,  2278  ,  2282  ,  2295  ,  2330  ,  2343  ,  2354  ,  2358  ,  2374  ,  2400  ,  2450  ,  2470  ,  2504  ,  2514  ,  2546  ,  2557  ,  2559  ,  2574  ,  2575  ,  2599  ,  2683  ,  2714  ,  2717  ,  2728  ,  2779  ,  2818  ,  2947  ,  2968  ,  2990  ,  2995  ,  3116  ,  3176  ,  3185  ,  3193  ,  3233  ,  3240  ,  3265  ,  3309  ,  3314  ,  3365  ,  3373  ,  3387  ,  3417  ,  3421  ,  3606  ,  3609  ,  3649  ,  3657  ,  3715  ,  3755  ,  3764  ,  3769  ,  3787  ,  3890  ,  3921  ,  3922  ,  4014  ,  4045  ,  4135  ,  4141  ,  4190  ,  4221  ,  4289  ,  4301  ,  4368  ,  4445  ,  4467  ,  4550  ,  4905  ,  4963  ,  4966  ,  4990  ,  5157  ,  5232  ,  5260  ,  5305  ,  5319  ,  5354  ,  5365  ,  5381  ,  5455  ,  5468  ,  5500  ,  5532  ,  5600  ,  5619  ,  5633  ,  5640  ,  5642  ,  5643  ,  5662  ,  5697  ,  5712  ,  5718  ,  5729  ,  5737  ,  5765  ,  5782  ,  5808  ,  5944  ,  5970  ,  5991  ,  5995  ,  6038  ,  6042  ,  6126  ,  6131  ,  6160  ,  6242  ,  6289  ,  6310  ,  6334  ,  6345  ,  6439  ,  6450  ,  6470  ,  6551  ,  6564  ,  6589  ,  6602  ,  6603  ,  6627  ,  6662  ,  6686  ,  6775  ,  6875  ,  6921  ,  6922  ,  7110  ,  7212  ,  7266  ,  7292  ,  7293  ,  7322  ,  7340  ,  7463  ,  7555  ,  7697  ,  7760  ,  7781  ,  7802  ,  7891  ,  7932  ,  7963  ,  7967  ,  8028  ,  8093  ,  8096  ,  8115  ,  8157  ,  8172  ,  8190  ,  8276  ,  8292  ,  8440  ,  8443  ,  8445  ,  8450  ,  8462  ,  8535  ,  8537  ,  8562  ,  8612  ,  8768  ,  8771  ,  8778  ,  8785  ,  8789  ,  8798  ,  8828  ,  8837  ,  8854  ,  8872  ,  8928  ,  8984  ,  
+POI Name: Popeyes  | POI IDs:  
+3270  ,  4365  ,  7286  ,  
+POI Name: McDonald's  | POI IDs:  
+65  ,  87  ,  115  ,  245  ,  358  ,  366  ,  414  ,  419  ,  526  ,  533  ,  538  ,  610  ,  729  ,  754  ,  772  ,  1058  ,  1095  ,  1171  ,  1242  ,  1282  ,  1304  ,  1337  ,  1404  ,  1419  ,  1441  ,  1483  ,  1488  ,  1509  ,  1523  ,  1615  ,  1618  ,  1622  ,  1649  ,  1700  ,  1744  ,  1816  ,  1964  ,  1981  ,  2037  ,  2188  ,  2228  ,  2449  ,  2472  ,  2522  ,  2660  ,  2789  ,  2969  ,  3175  ,  3186  ,  3325  ,  3341  ,  3389  ,  3490  ,  3568  ,  3784  ,  3788  ,  4044  ,  4336  ,  4340  ,  4450  ,  4637  ,  4680  ,  5091  ,  5092  ,  5278  ,  5289  ,  5318  ,  5350  ,  5359  ,  5535  ,  5550  ,  5565  ,  5674  ,  5794  ,  5860  ,  5924  ,  6040  ,  6232  ,  6288  ,  6539  ,  6594  ,  6664  ,  6690  ,  6876  ,  7097  ,  7105  ,  7574  ,  7890  ,  8043  ,  8165  ,  8594  ,  8737  ,  
+POI Name: Queen  | POI IDs:  
+47  ,  665  ,  666  ,  669  ,  2059  ,  2060  ,  2061  ,  2600  ,  
+POI Name: St. Clair West  | POI IDs:  
+96  ,  256  ,  257  ,  284  ,  
+POI Name: Bathurst  | POI IDs:  
+2  ,  144  ,  280  ,  2158  ,  8661  ,  
+POI Name: Petro-Pass  | POI IDs:  
+2103  ,  2310  ,  
+POI Name: Rosedale  | POI IDs:  
+99  ,  3525  ,  4404  ,  
+POI Name: TD Canada Trust  | POI IDs:  
+67  ,  84  ,  116  ,  153  ,  163  ,  199  ,  235  ,  244  ,  262  ,  272  ,  292  ,  299  ,  317  ,  359  ,  421  ,  448  ,  481  ,  496  ,  502  ,  545  ,  643  ,  683  ,  705  ,  708  ,  714  ,  728  ,  741  ,  770  ,  784  ,  790  ,  817  ,  835  ,  852  ,  927  ,  978  ,  1007  ,  1030  ,  1034  ,  1056  ,  1107  ,  1115  ,  1154  ,  1244  ,  1259  ,  1284  ,  1313  ,  1327  ,  1379  ,  1388  ,  1413  ,  1424  ,  1438  ,  1471  ,  1492  ,  1501  ,  1518  ,  1522  ,  1588  ,  1592  ,  1659  ,  1668  ,  1693  ,  1735  ,  1777  ,  1786  ,  1855  ,  1904  ,  1909  ,  1924  ,  1931  ,  1980  ,  2004  ,  2029  ,  2051  ,  2117  ,  2127  ,  2142  ,  2207  ,  2223  ,  2293  ,  2370  ,  2372  ,  2415  ,  2458  ,  2460  ,  2521  ,  2563  ,  2568  ,  2618  ,  2678  ,  2689  ,  2746  ,  2769  ,  2876  ,  2899  ,  2913  ,  2972  ,  3038  ,  3091  ,  3093  ,  3155  ,  3168  ,  3196  ,  3288  ,  3310  ,  3361  ,  3398  ,  3437  ,  3444  ,  3446  ,  3474  ,  3478  ,  3481  ,  3492  ,  3495  ,  3567  ,  4112  ,  4137  ,  4169  ,  4202  ,  4214  ,  4339  ,  4428  ,  4470  ,  4613  ,  4735  ,  4754  ,  4761  ,  4819  ,  4921  ,  4970  ,  5256  ,  5288  ,  5290  ,  5323  ,  5352  ,  5429  ,  5435  ,  5446  ,  5536  ,  5569  ,  5696  ,  5760  ,  5772  ,  5866  ,  5935  ,  5938  ,  6099  ,  6167  ,  6180  ,  6209  ,  6309  ,  6346  ,  6445  ,  6498  ,  6518  ,  6670  ,  6723  ,  6820  ,  6822  ,  6900  ,  6920  ,  6936  ,  6949  ,  7082  ,  7199  ,  7273  ,  7696  ,  7953  ,  7988  ,  8007  ,  8192  ,  8281  ,  8284  ,  8539  ,  8617  ,  8664  ,  8670  ,  8698  ,  8773  ,  8840  ,  8844  ,  8933  ,  8941  ,  8946  ,  8970  ,  
+POI Name: City Hall Parking  | POI IDs:  
+18  ,  82  ,  213  ,  
+POI Name: Coffee Time  | POI IDs:  
+240  ,  303  ,  352  ,  363  ,  456  ,  495  ,  503  ,  547  ,  629  ,  635  ,  645  ,  748  ,  811  ,  935  ,  989  ,  996  ,  1064  ,  1114  ,  1203  ,  1213  ,  1275  ,  1294  ,  1472  ,  1526  ,  1616  ,  1692  ,  1820  ,  1872  ,  1996  ,  2081  ,  2084  ,  2274  ,  2302  ,  2311  ,  2319  ,  2378  ,  2526  ,  2584  ,  2734  ,  2812  ,  2821  ,  2943  ,  2950  ,  3178  ,  3318  ,  3467  ,  3941  ,  4338  ,  4570  ,  4746  ,  4961  ,  5393  ,  5819  ,  6105  ,  6280  ,  6381  ,  6968  ,  7001  ,  7075  ,  7819  ,  8040  ,  8185  ,  8197  ,  8930  ,  
+POI Name: Casey's Bar & Grill  | POI IDs:  
+1941  ,  5229  ,  5809  ,  
+POI Name: Pizza Pizza  | POI IDs:  
+81  ,  132  ,  161  ,  176  ,  231  ,  237  ,  339  ,  362  ,  441  ,  444  ,  446  ,  466  ,  524  ,  542  ,  568  ,  597  ,  623  ,  631  ,  695  ,  717  ,  721  ,  825  ,  943  ,  955  ,  981  ,  1025  ,  1053  ,  1109  ,  1117  ,  1122  ,  1142  ,  1143  ,  1189  ,  1271  ,  1319  ,  1322  ,  1355  ,  1390  ,  1429  ,  1443  ,  1467  ,  1494  ,  1513  ,  1528  ,  1625  ,  1736  ,  1758  ,  1826  ,  1831  ,  2011  ,  2139  ,  2146  ,  2191  ,  2245  ,  2301  ,  2350  ,  2367  ,  2414  ,  2421  ,  2437  ,  2448  ,  2516  ,  2579  ,  2674  ,  2682  ,  2715  ,  2735  ,  2747  ,  2940  ,  3025  ,  3089  ,  3144  ,  3172  ,  3192  ,  3253  ,  3279  ,  3326  ,  3494  ,  3513  ,  3554  ,  3616  ,  3791  ,  3845  ,  3876  ,  4081  ,  4170  ,  4185  ,  4543  ,  4681  ,  4902  ,  5046  ,  5258  ,  5561  ,  5572  ,  5700  ,  5707  ,  5774  ,  5868  ,  5940  ,  6101  ,  6141  ,  6223  ,  6300  ,  6326  ,  6744  ,  6828  ,  6918  ,  6923  ,  7008  ,  7407  ,  7794  ,  7889  ,  8092  ,  8150  ,  8211  ,  8507  ,  8671  ,  8693  ,  8772  ,  8853  ,  8867  ,  8875  ,  
+POI Name: Royal Bank of Canada  | POI IDs:  
+5247  ,  6118  ,  
+POI Name: BMO Bank of Montreal  | POI IDs:  
+217  ,  309  ,  615  ,  926  ,  939  ,  954  ,  973  ,  1009  ,  1026  ,  1100  ,  1118  ,  1361  ,  1480  ,  1570  ,  1586  ,  1653  ,  1694  ,  1720  ,  1746  ,  1857  ,  1895  ,  2276  ,  2377  ,  2677  ,  2686  ,  2716  ,  2752  ,  2796  ,  3564  ,  3566  ,  3592  ,  3838  ,  3914  ,  4172  ,  4241  ,  4266  ,  4375  ,  4606  ,  4941  ,  5244  ,  5878  ,  5917  ,  5930  ,  5937  ,  6175  ,  6365  ,  6521  ,  6859  ,  7038  ,  7200  ,  7401  ,  7531  ,  8087  ,  8202  ,  8270  ,  8578  ,  8718  ,  8729  ,  8868  ,  8934  ,  
+POI Name: XTR  | POI IDs:  
+1187  ,  1853  ,  2439  ,  5862  ,  6080  ,  6149  ,  6549  ,  
+POI Name: Jane  | POI IDs:  
+1112  ,  1113  ,  2162  ,  6940  ,  
+POI Name: Oakwood  | POI IDs:  
+252  ,  7581  ,  
+POI Name: Meridian Credit Union  | POI IDs:  
+2168  ,  3805  ,  7943  ,  
+POI Name: Royal York  | POI IDs:  
+122  ,  1098  ,  1099  ,  
+POI Name: Sushi Shop  | POI IDs:  
+3124  ,  3258  ,  3484  ,  6676  ,  
+POI Name: California Thai  | POI IDs:  
+2539  ,  7474  ,  7936  ,  
+POI Name: St. Andrew  | POI IDs:  
+45  ,  1655  ,  1656  ,  1657  ,  1658  ,  8099  ,  
+POI Name: Woodbine  | POI IDs:  
+39  ,  689  ,  
+POI Name: Shoeless Joe's  | POI IDs:  
+164  ,  646  ,  2135  ,  3266  ,  3283  ,  3913  ,  4553  ,  5321  ,  5499  ,  6692  ,  
+POI Name: Turtle Jacks  | POI IDs:  
+4944  ,  6024  ,  7040  ,  7835  ,  
+POI Name: Global  | POI IDs:  
+937  ,  6203  ,  8198  ,  
+POI Name: Osgoode  | POI IDs:  
+44  ,  580  ,  581  ,  582  ,  583  ,  584  ,  
+POI Name: St. Patrick  | POI IDs:  
+16  ,  3234  ,  5153  ,  5154  ,  5155  ,  
+POI Name: Scarborough Centre  | POI IDs:  
+32  ,  8221  ,  
+POI Name: Don Mills  | POI IDs:  
+104  ,  2956  ,  4712  ,  4713  ,  7803  ,  
+POI Name: Donlands  | POI IDs:  
+127  ,  686  ,  
+POI Name: Quiznos Sub  | POI IDs:  
+609  ,  2091  ,  4342  ,  5876  ,  6110  ,  6221  ,  
+POI Name: Baton Rouge  | POI IDs:  
+4273  ,  5243  ,  6400  ,  6674  ,  
+POI Name: aroma espresso bar  | POI IDs:  
+3106  ,  7735  ,  7767  ,  7888  ,  8122  ,  8625  ,  
+POI Name: Mary Browns  | POI IDs:  
+928  ,  1262  ,  3869  ,  5520  ,  
+POI Name: Five Guys  | POI IDs:  
+4618  ,  4628  ,  5471  ,  6548  ,  6593  ,  6683  ,  7600  ,  7602  ,  
+POI Name: Subway  | POI IDs:  
+72  ,  152  ,  156  ,  172  ,  215  ,  232  ,  286  ,  313  ,  337  ,  452  ,  494  ,  518  ,  564  ,  570  ,  596  ,  641  ,  647  ,  661  ,  679  ,  718  ,  723  ,  752  ,  785  ,  793  ,  799  ,  821  ,  979  ,  994  ,  1021  ,  1082  ,  1103  ,  1193  ,  1205  ,  1241  ,  1323  ,  1334  ,  1345  ,  1382  ,  1411  ,  1421  ,  1442  ,  1449  ,  1482  ,  1503  ,  1520  ,  1631  ,  1704  ,  1763  ,  1773  ,  1775  ,  1830  ,  1847  ,  1870  ,  1987  ,  2027  ,  2035  ,  2054  ,  2089  ,  2119  ,  2183  ,  2199  ,  2201  ,  2209  ,  2212  ,  2219  ,  2242  ,  2266  ,  2275  ,  2294  ,  2307  ,  2333  ,  2373  ,  2403  ,  2423  ,  2433  ,  2475  ,  2498  ,  2519  ,  2538  ,  2551  ,  2581  ,  2586  ,  2624  ,  2645  ,  2675  ,  2707  ,  2709  ,  2719  ,  2725  ,  2731  ,  2742  ,  2784  ,  2814  ,  2817  ,  2823  ,  2824  ,  2840  ,  2916  ,  2949  ,  2965  ,  2983  ,  2989  ,  3003  ,  3137  ,  3215  ,  3255  ,  3292  ,  3430  ,  3439  ,  3488  ,  3543  ,  3545  ,  3548  ,  3575  ,  3586  ,  3668  ,  3730  ,  3738  ,  3785  ,  3804  ,  3910  ,  3940  ,  3953  ,  4006  ,  4089  ,  4139  ,  4165  ,  4192  ,  4225  ,  4270  ,  4324  ,  4356  ,  4462  ,  4542  ,  4558  ,  4627  ,  4657  ,  4687  ,  4725  ,  4731  ,  4737  ,  4875  ,  4888  ,  4906  ,  4927  ,  4977  ,  5069  ,  5101  ,  5124  ,  5467  ,  5483  ,  5497  ,  5516  ,  5576  ,  5618  ,  5709  ,  5717  ,  5754  ,  5762  ,  5799  ,  5813  ,  5871  ,  5923  ,  5927  ,  5982  ,  6039  ,  6065  ,  6109  ,  6129  ,  6163  ,  6178  ,  6248  ,  6263  ,  6304  ,  6321  ,  6343  ,  6398  ,  6490  ,  6520  ,  6616  ,  6635  ,  6659  ,  6790  ,  6827  ,  6908  ,  6924  ,  6957  ,  7011  ,  7017  ,  7107  ,  7191  ,  7272  ,  7285  ,  7456  ,  7465  ,  7496  ,  7608  ,  7663  ,  7698  ,  7780  ,  7828  ,  7915  ,  7918  ,  7919  ,  7942  ,  8049  ,  8189  ,  8195  ,  8286  ,  8293  ,  8309  ,  8419  ,  8433  ,  8437  ,  8439  ,  8468  ,  8522  ,  8529  ,  8549  ,  8613  ,  8616  ,  8684  ,  8733  ,  8759  ,  8775  ,  8803  ,  8860  ,  8883  ,  8889  ,  8894  ,  8973  ,  
+POI Name: OISE Institute for Child Study (University of Toronto)  | POI IDs:  
+138  ,  382  ,  
+POI Name: Thai Express  | POI IDs:  
+2198  ,  2502  ,  2662  ,  3565  ,  3974  ,  4119  ,  4173  ,  4417  ,  6440  ,  6493  ,  6916  ,  7457  ,  7489  ,  7720  ,  
+POI Name: Globe and Mail  | POI IDs:  
+112  ,  5147  ,  
+POI Name: Rexall Pharma Plus  | POI IDs:  
+3174  ,  3184  ,  3222  ,  4402  ,  
+POI Name: Pita Land  | POI IDs:  
+963  ,  1236  ,  
+POI Name: The Christadelphians  | POI IDs:  
+167  ,  461  ,  
+POI Name: Amato  | POI IDs:  
+1801  ,  7910  ,  8352  ,  
+POI Name: Glencairn  | POI IDs:  
+2860  ,  2861  ,  2862  ,  
+POI Name: Bank of Montreal  | POI IDs:  
+216  ,  301  ,  779  ,  791  ,  833  ,  1636  ,  2422  ,  2425  ,  2473  ,  3317  ,  3783  ,  3829  ,  3903  ,  5322  ,  5358  ,  5660  ,  5988  ,  6067  ,  6239  ,  7000  ,  7220  ,  7509  ,  7615  ,  7657  ,  8680  ,  8862  ,  
+POI Name: St George Lot  | POI IDs:  
+775  ,  4113  ,  
+POI Name: Finch  | POI IDs:  
+109  ,  2922  ,  2923  ,  2924  ,  2927  ,  2928  ,  2929  ,  3123  ,  4023  ,  4051  ,  7442  ,  8835  ,  8836  ,  
+POI Name: Double Double  | POI IDs:  
+185  ,  2131  ,  2141  ,  2286  ,  3431  ,  
+POI Name: Zipcar  | POI IDs:  
+1228  ,  2494  ,  2669  ,  2691  ,  2708  ,  3048  ,  3079  ,  5908  ,  6580  ,  8239  ,  
+POI Name: Second Cup  | POI IDs:  
+75  ,  196  ,  321  ,  426  ,  451  ,  487  ,  525  ,  540  ,  574  ,  594  ,  638  ,  651  ,  713  ,  720  ,  740  ,  842  ,  914  ,  919  ,  920  ,  921  ,  941  ,  995  ,  1287  ,  1425  ,  1638  ,  1698  ,  1778  ,  1783  ,  1822  ,  2030  ,  2236  ,  2340  ,  2397  ,  2517  ,  2564  ,  2588  ,  2608  ,  2695  ,  2699  ,  2804  ,  2873  ,  2880  ,  3112  ,  3128  ,  3129  ,  3130  ,  3131  ,  3238  ,  3251  ,  3687  ,  3691  ,  3780  ,  4122  ,  4243  ,  4264  ,  4268  ,  4281  ,  4425  ,  4468  ,  4473  ,  4510  ,  4531  ,  4540  ,  4741  ,  4834  ,  5146  ,  5235  ,  5276  ,  5297  ,  5434  ,  5759  ,  5883  ,  6268  ,  6508  ,  6538  ,  6542  ,  6682  ,  7213  ,  7270  ,  7346  ,  7421  ,  7626  ,  7958  ,  8013  ,  8138  ,  8139  ,  8160  ,  8246  ,  8356  ,  8465  ,  8508  ,  8654  ,  8924  ,  8925  ,  8966  ,  
+POI Name: Coxwell  | POI IDs:  
+38  ,  688  ,  
+POI Name: Michel's Baguette  | POI IDs:  
+769  ,  3152  ,  4592  ,  5062  ,  6504  ,  
+POI Name: Pioneer  | POI IDs:  
+168  ,  881  ,  1003  ,  2553  ,  2774  ,  3223  ,  4916  ,  5655  ,  5856  ,  6284  ,  6657  ,  7575  ,  
+POI Name: RBC Financial Group  | POI IDs:  
+197  ,  263  ,  285  ,  324  ,  332  ,  341  ,  424  ,  440  ,  512  ,  546  ,  681  ,  730  ,  854  ,  1029  ,  1105  ,  1119  ,  1126  ,  1141  ,  1155  ,  1277  ,  1288  ,  1350  ,  1358  ,  1387  ,  1415  ,  1426  ,  1593  ,  1599  ,  1715  ,  1867  ,  2049  ,  2080  ,  2222  ,  2376  ,  2565  ,  2710  ,  2772  ,  3574  ,  4107  ,  4920  ,  5584  ,  5654  ,  6789  ,  
+POI Name: St. George  | POI IDs:  
+43  ,  51  ,  777  ,  3655  ,  
+POI Name: Lisgar  | POI IDs:  
+875  ,  6443  ,  
+POI Name: Davisville  | POI IDs:  
+100  ,  3562  ,  3618  ,  5839  ,  
+POI Name: Canadian Tire Gas  | POI IDs:  
+398  ,  2362  ,  
+POI Name: Ginger  | POI IDs:  
+980  ,  1139  ,  3744  ,  
+POI Name: Lone Star Texas Grill  | POI IDs:  
+1086  ,  5634  ,  
+POI Name: The Bagel Stop  | POI IDs:  
+1683  ,  4469  ,  4486  ,  
+POI Name: Queen's Park  | POI IDs:  
+205  ,  206  ,  207  ,  208  ,  523  ,  
+POI Name: Grazie Ristorante  | POI IDs:  
+5089  ,  7829  ,  
+POI Name: Druxy's Famous Deli  | POI IDs:  
+757  ,  1881  ,  2900  ,  2984  ,  3260  ,  3665  ,  3674  ,  4136  ,  5400  ,  
+POI Name: Victoria Park  | POI IDs:  
+129  ,  1019  ,  3521  ,  
+POI Name: Bton Rouge  | POI IDs:  
+1085  ,  1788  ,  
+POI Name: Bayview  | POI IDs:  
+107  ,  1131  ,  1529  ,  1533  ,  8740  ,  
+POI Name: Guardian  | POI IDs:  
+296  ,  1207  ,  2003  ,  2446  ,  2491  ,  2755  ,  2865  ,  6894  ,  7951  ,  
+POI Name: Dundas  | POI IDs:  
+17  ,  667  ,  668  ,  743  ,  4199  ,  4200  ,  
+POI Name: HSBC  | POI IDs:  
+837  ,  1097  ,  1392  ,  1440  ,  1536  ,  1845  ,  1968  ,  2530  ,  3099  ,  3351  ,  4029  ,  4276  ,  4604  ,  4648  ,  5749  ,  7409  ,  7930  ,  7985  ,  8757  ,  8839  ,  
+POI Name: Neighbours Coffee  | POI IDs:  
+5432  ,  5919  ,  
+POI Name: Popeye's Chicken & Seafood  | POI IDs:  
+1061  ,  1320  ,  1486  ,  1495  ,  
+POI Name: Golden Griddle  | POI IDs:  
+1873  ,  2507  ,  3284  ,  7739  ,  
+POI Name: Mucho Burrito  | POI IDs:  
+3699  ,  4559  ,  5812  ,  6684  ,  6695  ,  
+POI Name: Alterna Savings  | POI IDs:  
+319  ,  1838  ,  2077  ,  4175  ,  6766  ,  
+POI Name: Canpark  | POI IDs:  
+4630  ,  5088  ,  
+POI Name: Giggling Tomatoes  | POI IDs:  
+6911  ,  6959  ,  
+POI Name: Oxford Learning  | POI IDs:  
+5376  ,  8269  ,  
+POI Name: Asian Legend  | POI IDs:  
+749  ,  750  ,  7244  ,  
+POI Name: Asian Gourmet  | POI IDs:  
+1490  ,  2268  ,  2477  ,  3390  ,  
+POI Name: Esso  | POI IDs:  
+151  ,  227  ,  350  ,  356  ,  384  ,  391  ,  400  ,  406  ,  442  ,  445  ,  458  ,  478  ,  486  ,  490  ,  690  ,  693  ,  698  ,  699  ,  716  ,  719  ,  819  ,  860  ,  862  ,  873  ,  879  ,  888  ,  931  ,  1001  ,  1024  ,  1028  ,  1036  ,  1048  ,  1054  ,  1088  ,  1116  ,  1182  ,  1190  ,  1195  ,  1258  ,  1280  ,  1300  ,  1315  ,  1317  ,  1329  ,  1338  ,  1399  ,  1412  ,  1428  ,  1481  ,  1487  ,  1511  ,  1521  ,  1534  ,  1581  ,  1585  ,  1601  ,  1619  ,  1770  ,  1805  ,  1806  ,  1817  ,  1827  ,  1832  ,  1862  ,  1879  ,  1898  ,  1986  ,  2000  ,  2007  ,  2014  ,  2024  ,  2087  ,  2099  ,  2152  ,  2218  ,  2226  ,  2257  ,  2309  ,  2315  ,  2353  ,  2369  ,  2391  ,  2663  ,  2739  ,  2786  ,  2808  ,  2935  ,  2946  ,  3100  ,  3197  ,  3225  ,  3290  ,  3338  ,  3347  ,  3423  ,  3434  ,  3714  ,  3786  ,  3892  ,  4147  ,  4724  ,  4867  ,  5039  ,  5265  ,  5274  ,  5296  ,  5325  ,  5349  ,  5351  ,  5577  ,  5612  ,  5843  ,  5857  ,  5911  ,  5932  ,  5960  ,  5968  ,  6034  ,  6233  ,  6318  ,  6335  ,  6819  ,  6872  ,  6885  ,  6945  ,  7363  ,  7414  ,  7940  ,  8042  ,  8638  ,  8841  ,  8916  ,  8967  ,  
+POI Name: Taste of Mediterranean  | POI IDs:  
+3587  ,  4556  ,  7455  ,  
+POI Name: Regino's Pizza  | POI IDs:  
+3367  ,  5770  ,  
+POI Name: Country Style/Yogen Frz  | POI IDs:  
+983  ,  4646  ,  
+POI Name: Wing Machine  | POI IDs:  
+1485  ,  7902  ,  
+POI Name: Coca-Cola  | POI IDs:  
+1004  ,  1842  ,  6237  ,  7041  ,  
+POI Name: Jack Astor's Bar and Grill  | POI IDs:  
+1684  ,  3648  ,  
+POI Name: Tru Value  | POI IDs:  
+1192  ,  2265  ,  
+POI Name: Mamma's Pizza  | POI IDs:  
+843  ,  1792  ,  2122  ,  2515  ,  4395  ,  4738  ,  6390  ,  8605  ,  
+POI Name: Harvey's  | POI IDs:  
+383  ,  802  ,  1381  ,  1436  ,  1858  ,  2078  ,  2299  ,  2357  ,  2541  ,  2544  ,  3181  ,  3433  ,  3767  ,  3850  ,  4130  ,  5240  ,  5272  ,  5293  ,  5309  ,  5398  ,  5399  ,  5726  ,  6079  ,  6308  ,  6457  ,  6882  ,  7761  ,  7899  ,  8430  ,  8892  ,  
+POI Name: Mac's  | POI IDs:  
+2194  ,  5863  ,  
+POI Name: IC Savings  | POI IDs:  
+2751  ,  8385  ,  
+POI Name: Quizno's  | POI IDs:  
+1084  ,  1800  ,  1957  ,  2025  ,  2137  ,  2524  ,  2816  ,  6675  ,  
+POI Name: Pita Pit  | POI IDs:  
+3275  ,  6697  ,  7100  ,  
+POI Name: Husky  | POI IDs:  
+380  ,  818  ,  885  ,  887  ,  891  ,  903  ,  932  ,  1353  ,  1418  ,  1423  ,  1901  ,  1983  ,  2079  ,  2392  ,  3098  ,  3647  ,  3942  ,  3964  ,  5366  ,  5437  ,  5466  ,  5579  ,  5635  ,  6046  ,  6969  ,  7609  ,  7617  ,  7652  ,  8467  ,  8566  ,  8937  ,  
+POI Name: St. Clair  | POI IDs:  
+101  ,  2658  ,  2659  ,  2694  ,  2697  ,  5164  ,  
+POI Name: PharmaPlus  | POI IDs:  
+792  ,  1960  ,  3101  ,  3103  ,  
+POI Name: Christie  | POI IDs:  
+1  ,  145  ,  1893  ,  
+POI Name: Grill it Up!  | POI IDs:  
+2954  ,  3696  ,  
+POI Name: Altima Dental Centre  | POI IDs:  
+922  ,  4769  ,  
+POI Name: Bagel Stop  | POI IDs:  
+3291  ,  5596  ,  5730  ,  
+POI Name: Cineplex  | POI IDs:  
+1186  ,  2482  ,  
+POI Name: Quiznos  | POI IDs:  
+655  ,  5881  ,  6023  ,  6050  ,  6597  ,  
+POI Name: Sherbourne  | POI IDs:  
+1211  ,  1839  ,  7534  ,  
+POI Name: Dairy Queen  | POI IDs:  
+550  ,  1070  ,  1266  ,  1295  ,  1432  ,  1825  ,  2182  ,  2408  ,  2726  ,  2809  ,  3208  ,  3782  ,  3851  ,  4275  ,  6320  ,  7374  ,  7950  ,  8482  ,  
+POI Name: Warden  | POI IDs:  
+71  ,  803  ,  804  ,  810  ,  
+POI Name: Villa Madina  | POI IDs:  
+2961  ,  3972  ,  6494  ,  7478  ,  
+POI Name: Lawrence West  | POI IDs:  
+93  ,  906  ,  907  ,  
+POI Name: Jugo Juice  | POI IDs:  
+1950  ,  2130  ,  2406  ,  3685  ,  5521  ,  5599  ,  
+POI Name: Pizza Hut/Wing Street  | POI IDs:  
+1498  ,  2780  ,  5478  ,  
+POI Name: Wanda's Belgian Waffles  | POI IDs:  
+2938  ,  3376  ,  
+POI Name: Tim Hortons/Wendy's  | POI IDs:  
+1978  ,  2208  ,  2272  ,  7621  ,  
+POI Name: KFC/Taco Bell  | POI IDs:  
+141  ,  336  ,  1094  ,  1437  ,  1489  ,  1646  ,  3577  ,  4350  ,  
+POI Name: Freshly Squeezed  | POI IDs:  
+1823  ,  2898  ,  3948  ,  4150  ,  4203  ,  4458  ,  
+POI Name: Pho Saigon  | POI IDs:  
+1260  ,  7974  ,  
+POI Name: Mega Wraps  | POI IDs:  
+1875  ,  1956  ,  2184  ,  4309  ,  
+POI Name: Bull Dog Coffee  | POI IDs:  
+3066  ,  6230  ,  
+POI Name: Wimpy's Diner  | POI IDs:  
+2176  ,  2436  ,  2727  ,  2953  ,  3939  ,  5735  ,  
+POI Name: Main Drug Mart  | POI IDs:  
+180  ,  436  ,  511  ,  514  ,  551  ,  598  ,  1043  ,  1044  ,  1134  ,  1222  ,  1514  ,  1769  ,  1883  ,  1902  ,  2587  ,  2877  ,  2887  ,  2944  ,  3220  ,  3289  ,  5382  ,  6371  ,  6453  ,  7338  ,  
+POI Name: Richtree Market Restaurants  | POI IDs:  
+1611  ,  1647  ,  1697  ,  
+POI Name: Spring Rolls  | POI IDs:  
+576  ,  805  ,  1246  ,  1915  ,  2230  ,  2702  ,  2955  ,  3733  ,  4329  ,  6599  ,  
+POI Name: Ginza Sushi  | POI IDs:  
+1669  ,  5436  ,  
+POI Name: Imperial Buffet  | POI IDs:  
+4008  ,  8552  ,  
+POI Name: Boston Pizza  | POI IDs:  
+1349  ,  2700  ,  3158  ,  3202  ,  3362  ,  4167  ,  5001  ,  5363  ,  5443  ,  5527  ,  6402  ,  6877  ,  6929  ,  8707  ,  8976  ,  
+POI Name: Jack Astor's  | POI IDs:  
+1398  ,  1954  ,  2871  ,  2971  ,  3356  ,  5805  ,  6004  ,  
+POI Name: Teriyaki  | POI IDs:  
+759  ,  1764  ,  1798  ,  2895  ,  2963  ,  3740  ,  4302  ,  4391  ,  4545  ,  5014  ,  8515  ,  
+POI Name: Shoppers Home Health Care  | POI IDs:  
+1407  ,  1519  ,  
+POI Name: Canada Post  | POI IDs:  
+3231  ,  4306  ,  4534  ,  4965  ,  4968  ,  5075  ,  5682  ,  5836  ,  6356  ,  6591  ,  7036  ,  8658  ,  8827  ,  
+POI Name: Pharmaplus  | POI IDs:  
+5254  ,  5280  ,  
+POI Name: Academy of Learning  | POI IDs:  
+3818  ,  6640  ,  
+POI Name: Taco Bell  | POI IDs:  
+2192  ,  3470  ,  3863  ,  5259  ,  6058  ,  8779  ,  
+POI Name: East Side Mario's  | POI IDs:  
+1384  ,  5242  ,  5747  ,  6302  ,  6397  ,  8787  ,  
+POI Name: Panzerotto Pizza  | POI IDs:  
+530  ,  2718  ,  
+POI Name: The Keg  | POI IDs:  
+715  ,  2550  ,  3514  ,  5246  ,  5326  ,  5505  ,  6222  ,  6601  ,  
+POI Name: Domino's  | POI IDs:  
+2863  ,  3793  ,  4343  ,  5086  ,  7281  ,  8322  ,  
+POI Name: Kernels  | POI IDs:  
+1949  ,  4205  ,  6506  ,  
+POI Name: Real Fruit Bubble Tea  | POI IDs:  
+1566  ,  3053  ,  
+POI Name: Spadina  | POI IDs:  
+3  ,  25  ,  98  ,  111  ,  133  ,  134  ,  135  ,  143  ,  408  ,  409  ,  410  ,  
+POI Name: Quesada Mexican Grill  | POI IDs:  
+604  ,  4158  ,  4636  ,  
+POI Name: Dixie  | POI IDs:  
+1580  ,  5861  ,  
+POI Name: Scotiabank & Trust  | POI IDs:  
+1591  ,  2085  ,  2670  ,  3280  ,  
+POI Name: O'Gradys  | POI IDs:  
+130  ,  975  ,  
+POI Name: Touchless Car Wash  | POI IDs:  
+7801  ,  8330  ,  
+POI Name: March Restaurant  | POI IDs:  
+1650  ,  4208  ,  4478  ,  
+POI Name: CN Tower/Ripley's Aquarium Canada  | POI IDs:  
+3683  ,  7561  ,  
+POI Name: Mr. Greek  | POI IDs:  
+1701  ,  1877  ,  6301  ,  
+POI Name: Jimmy the Greek  | POI IDs:  
+806  ,  2893  ,  3469  ,  3741  ,  4300  ,  4546  ,  6484  ,  7276  ,  7937  ,  
+POI Name: Castle Frank  | POI IDs:  
+554  ,  7096  ,  8103  ,  8104  ,  
+POI Name: Loblaws great food parking  | POI IDs:  
+4021  ,  6862  ,  
+POI Name: I.D.A.  | POI IDs:  
+1710  ,  2368  ,  2428  ,  2842  ,  2849  ,  2926  ,  2931  ,  3637  ,  5465  ,  5934  ,  6954  ,  7785  ,  8469  ,  8521  ,  
+POI Name: Casey's  | POI IDs:  
+1753  ,  6299  ,  
+POI Name: Quizno's Sub  | POI IDs:  
+601  ,  1081  ,  1530  ,  2532  ,  2986  ,  3026  ,  3392  ,  3867  ,  3947  ,  4690  ,  
+POI Name: Keele  | POI IDs:  
+148  ,  2159  ,  2793  ,  2794  ,  7580  ,  
+POI Name: Greenwood  | POI IDs:  
+128  ,  687  ,  
+POI Name: Pizza Nova  | POI IDs:  
+255  ,  300  ,  634  ,  985  ,  1077  ,  1318  ,  1372  ,  1395  ,  1446  ,  1665  ,  1688  ,  1703  ,  1869  ,  2273  ,  2320  ,  2426  ,  2508  ,  2820  ,  2964  ,  3169  ,  3183  ,  3353  ,  3442  ,  3585  ,  3747  ,  3796  ,  4009  ,  4058  ,  4138  ,  4493  ,  5041  ,  5145  ,  5277  ,  5347  ,  5678  ,  5698  ,  5764  ,  5833  ,  5838  ,  5931  ,  6137  ,  6363  ,  6620  ,  7585  ,  7662  ,  7858  ,  7990  ,  8188  ,  8738  ,  
+POI Name: HomeGuides  | POI IDs:  
+3824  ,  7063  ,  
+POI Name: McCowan  | POI IDs:  
+33  ,  2255  ,  
+POI Name: Kipling  | POI IDs:  
+79  ,  969  ,  2239  ,  3957  ,  3958  ,  3960  ,  
+POI Name: Dental Care  | POI IDs:  
+4050  ,  4699  ,  
+POI Name: Over Easy  | POI IDs:  
+1923  ,  2098  ,  
+POI Name: Lettieri  | POI IDs:  
+591  ,  1644  ,  4231  ,  6660  ,  
+POI Name: Chiropractic Centre  | POI IDs:  
+1365  ,  5692  ,  
+POI Name: Ichiban Sushi  | POI IDs:  
+1928  ,  2134  ,  2833  ,  2952  ,  4049  ,  4285  ,  
+POI Name: CIBC Banking Centre  | POI IDs:  
+254  ,  365  ,  593  ,  1748  ,  1808  ,  1861  ,  2364  ,  2518  ,  4996  ,  5040  ,  6550  ,  7772  ,  8311  ,  8606  ,  
+POI Name: Crocodile Rock  | POI IDs:  
+1969  ,  3626  ,  
+POI Name: Petro-Canada  | POI IDs:  
+113  ,  125  ,  189  ,  390  ,  392  ,  396  ,  405  ,  430  ,  459  ,  464  ,  470  ,  544  ,  644  ,  656  ,  691  ,  712  ,  783  ,  863  ,  880  ,  882  ,  889  ,  892  ,  895  ,  902  ,  924  ,  934  ,  1035  ,  1055  ,  1091  ,  1101  ,  1169  ,  1173  ,  1184  ,  1188  ,  1255  ,  1261  ,  1274  ,  1303  ,  1333  ,  1347  ,  1348  ,  1376  ,  1389  ,  1416  ,  1427  ,  1444  ,  1445  ,  1461  ,  1510  ,  1525  ,  1582  ,  1598  ,  1602  ,  1727  ,  1728  ,  1741  ,  1767  ,  1819  ,  1848  ,  1863  ,  1897  ,  1899  ,  1961  ,  1966  ,  1967  ,  1993  ,  2012  ,  2019  ,  2022  ,  2069  ,  2071  ,  2072  ,  2170  ,  2179  ,  2181  ,  2263  ,  2296  ,  2300  ,  2306  ,  2308  ,  2317  ,  2342  ,  2545  ,  2741  ,  2909  ,  3115  ,  3239  ,  3242  ,  3321  ,  3336  ,  3364  ,  3378  ,  3441  ,  3491  ,  3762  ,  3887  ,  4087  ,  4146  ,  4148  ,  4216  ,  4360  ,  4569  ,  4684  ,  4723  ,  4745  ,  4903  ,  4983  ,  5027  ,  5133  ,  5139  ,  5370  ,  5406  ,  5431  ,  5564  ,  5567  ,  5580  ,  5623  ,  5807  ,  5859  ,  5882  ,  5922  ,  6183  ,  6227  ,  6234  ,  6238  ,  6251  ,  6281  ,  6328  ,  6383  ,  6687  ,  8153  ,  8655  ,  8786  ,  8856  ,  
+POI Name: Domino's Pizza  | POI IDs:  
+1218  ,  2036  ,  2116  ,  2280  ,  2483  ,  3324  ,  3878  ,  4490  ,  5287  ,  6103  ,  6341  ,  8717  ,  
+POI Name: Sultan of Samosas  | POI IDs:  
+7235  ,  8649  ,  
+POI Name: IDA  | POI IDs:  
+2703  ,  6097  ,  
+POI Name: Z-Teca Gourmet Burritos  | POI IDs:  
+4183  ,  4826  ,  
+POI Name: South Street Burger Co.  | POI IDs:  
+4188  ,  4359  ,  6536  ,  8964  ,  
+POI Name: Teriyaki Experience  | POI IDs:  
+4228  ,  4624  ,  5784  ,  6492  ,  7716  ,  8731  ,  
+POI Name: Amaya Express  | POI IDs:  
+4232  ,  4448  ,  6478  ,  7782  ,  
+POI Name: 241 Pizza  | POI IDs:  
+567  ,  1060  ,  1475  ,  1997  ,  2365  ,  2451  ,  2459  ,  2478  ,  2777  ,  2850  ,  3581  ,  4005  ,  4600  ,  4962  ,  5929  ,  5971  ,  5993  ,  6871  ,  
+POI Name: 24 Hours  | POI IDs:  
+3820  ,  3821  ,  3822  ,  3929  ,  3933  ,  6369  ,  6899  ,  7055  ,  7513  ,  7680  ,  7777  ,  8012  ,  8335  ,  8591  ,  8631  ,  8675  ,  8736  ,  8983  ,  
+POI Name: Country Style/Bistro Deli  | POI IDs:  
+1326  ,  1414  ,  1962  ,  4503  ,  5961  ,  8603  ,  
+POI Name: Magic Oven  | POI IDs:  
+4326  ,  4423  ,  8332  ,  
+POI Name: Toronto Star  | POI IDs:  
+4332  ,  4408  ,  6807  ,  7052  ,  7364  ,  7530  ,  7610  ,  8303  ,  8343  ,  8471  ,  8598  ,  8665  ,  8726  ,  8982  ,  
+POI Name: Dixie Sweets  | POI IDs:  
+6966  ,  6967  ,  
+POI Name: St. Louis Bar and Grill  | POI IDs:  
+6989  ,  8730  ,  8884  ,  
+POI Name: Touchless wash  | POI IDs:  
+1864  ,  1868  ,  1880  ,  2258  ,  
+POI Name: Il Fornello  | POI IDs:  
+4416  ,  4841  ,  
+POI Name: Chiropractor  | POI IDs:  
+4431  ,  5003  ,  8057  ,  
+POI Name: Cafe Supreme  | POI IDs:  
+4457  ,  4476  ,  
+POI Name: Tha Express  | POI IDs:  
+4461  ,  4544  ,  5016  ,  
+POI Name: Country Style  | POI IDs:  
+831  ,  1306  ,  1422  ,  1435  ,  2094  ,  2193  ,  2271  ,  3211  ,  3335  ,  3493  ,  4063  ,  4471  ,  4492  ,  4576  ,  4747  ,  5264  ,  5407  ,  5986  ,  6637  ,  7042  ,  7599  ,  8046  ,  8130  ,  
+POI Name: Mac's Sushi  | POI IDs:  
+4549  ,  6507  ,  
+POI Name: Redbox  | POI IDs:  
+7611  ,  8241  ,  8294  ,  8456  ,  8595  ,  8635  ,  8639  ,  8648  ,  
+POI Name: AutoShare  | POI IDs:  
+5029  ,  6123  ,  
+POI Name: Demetre  | POI IDs:  
+4560  ,  6394  ,  
+POI Name: Canadian Tire  | POI IDs:  
+155  ,  412  ,  872  ,  883  ,  886  ,  1049  ,  1191  ,  1450  ,  2013  ,  2291  ,  2934  ,  5138  ,  5780  ,  6235  ,  7428  ,  8663  ,  
+POI Name: Crabby Joe's  | POI IDs:  
+4625  ,  8050  ,  
+POI Name: Tokyo Sushi  | POI IDs:  
+4629  ,  6984  ,  
+POI Name: BMO Financial Group  | POI IDs:  
+1737  ,  2023  ,  2214  ,  2215  ,  2525  ,  2933  ,  
+POI Name: Bloor-Yonge  | POI IDs:  
+253  ,  472  ,  473  ,  4527  ,  
+POI Name: Bamiyan Kabob  | POI IDs:  
+4700  ,  6649  ,  
+POI Name: The Pita Pit  | POI IDs:  
+4701  ,  7892  ,  
+POI Name: Cmb  | POI IDs:  
+4752  ,  4753  ,  
+POI Name: Dolphin Dental  | POI IDs:  
+4757  ,  4758  ,  
+POI Name: Tim Hortons Coffee House  | POI IDs:  
+3458  ,  7900  ,  8581  ,  
+POI Name: H&R Block  | POI IDs:  
+4802  ,  6914  ,  
+POI Name: Petro Canada  | POI IDs:  
+861  ,  864  ,  871  ,  890  ,  1405  ,  1691  ,  5030  ,  5261  ,  5262  ,  5263  ,  5295  ,  5312  ,  5313  ,  5353  ,  5355  ,  5727  ,  6817  ,  6944  ,  7446  ,  8797  ,  
+POI Name: C'est Bon  | POI IDs:  
+4156  ,  4889  ,  
+POI Name: Chinese Grace Baptist Church  | POI IDs:  
+305  ,  7253  ,  
+POI Name: Toronto Sun  | POI IDs:  
+1214  ,  3078  ,  3875  ,  3928  ,  5090  ,  7053  ,  7560  ,  8010  ,  8378  ,  8428  ,  8501  ,  8583  ,  8590  ,  8600  ,  8871  ,  
+POI Name: The Burger's Priest  | POI IDs:  
+4858  ,  5899  ,  6446  ,  8829  ,  
+POI Name: Pharmasave  | POI IDs:  
+165  ,  277  ,  1296  ,  2243  ,  2740  ,  2758  ,  2857  ,  2906  ,  3435  ,  3885  ,  5212  ,  6266  ,  7282  ,  7353  ,  8252  ,  
+POI Name: Zoomobile  | POI IDs:  
+7298  ,  7299  ,  7300  ,  7301  ,  
+POI Name: Milestone's  | POI IDs:  
+5241  ,  6582  ,  
+POI Name: Animal Hospital  | POI IDs:  
+4931  ,  8225  ,  
+POI Name: Hooper's Pharmacy  | POI IDs:  
+4934  ,  7081  ,  
+POI Name: Newspaper & Magazine Recycling  | POI IDs:  
+6892  ,  6898  ,  
+POI Name: Panera Bread  | POI IDs:  
+4940  ,  6352  ,  
+POI Name: Dufferin  | POI IDs:  
+5  ,  146  ,  173  ,  174  ,  7579  ,  
+POI Name: Bessarion  | POI IDs:  
+191  ,  1132  ,  
+POI Name: Java Joe's  | POI IDs:  
+4967  ,  5148  ,  7350  ,  8657  ,  
+POI Name: Cultures  | POI IDs:  
+3456  ,  4577  ,  
+POI Name: David's Tea  | POI IDs:  
+6592  ,  8420  ,  8421  ,  
+POI Name: Burrito Bandidos  | POI IDs:  
+3498  ,  5109  ,  
+POI Name: Treats  | POI IDs:  
+2975  ,  3119  ,  3415  ,  4381  ,  6981  ,  8038  ,  8530  ,  
+POI Name: Moxie's Classic Grill  | POI IDs:  
+778  ,  4271  ,  5329  ,  6511  ,  7393  ,  
+POI Name: Neighbours  | POI IDs:  
+5136  ,  5925  ,  6329  ,  
+POI Name: Bombay Bhel  | POI IDs:  
+4778  ,  5879  ,  6672  ,  
+POI Name: Veterinary Emergency Clinic  | POI IDs:  
+5208  ,  8660  ,  
+POI Name: Timothy's  | POI IDs:  
+2497  ,  3108  ,  4410  ,  5597  ,  6902  ,  7028  ,  7355  ,  8264  ,  
+POI Name: Select Sandwich  | POI IDs:  
+5238  ,  5771  ,  7693  ,  
+POI Name: Coffee Culture  | POI IDs:  
+5281  ,  5928  ,  7176  ,  
+POI Name: Pho Mi 99  | POI IDs:  
+5298  ,  7487  ,  
+POI Name: Denny's  | POI IDs:  
+5362  ,  6878  ,  8124  ,  
+POI Name: Chipotle Mexican Grill  | POI IDs:  
+3372  ,  4187  ,  
+POI Name: The Friendly Thai  | POI IDs:  
+5789  ,  7893  ,  8904  ,  
+POI Name: Thai Bowl  | POI IDs:  
+3967  ,  4374  ,  
+POI Name: Fat Bastard Burrito  | POI IDs:  
+5545  ,  6071  ,  
+POI Name: Marble Slab Creamery  | POI IDs:  
+5591  ,  6305  ,  7485  ,  
+POI Name: Young Drivers of Canada  | POI IDs:  
+5613  ,  5614  ,  
+POI Name: Union  | POI IDs:  
+52  ,  388  ,  970  ,  1756  ,  1757  ,  2404  ,  2405  ,  2474  ,  2795  ,  3329  ,  3881  ,  
+POI Name: CIBC  | POI IDs:  
+76  ,  83  ,  162  ,  218  ,  236  ,  246  ,  293  ,  318  ,  418  ,  420  ,  493  ,  498  ,  787  ,  930  ,  993  ,  1042  ,  1123  ,  1137  ,  1401  ,  1459  ,  1466  ,  1477  ,  1532  ,  1633  ,  1679  ,  1774  ,  1854  ,  1884  ,  1922  ,  1984  ,  2005  ,  2073  ,  2082  ,  2095  ,  2165  ,  2185  ,  2244  ,  2359  ,  2424  ,  2499  ,  2576  ,  2657  ,  2667  ,  2671  ,  2858  ,  2912  ,  3254  ,  3355  ,  3393  ,  3416  ,  3418  ,  3422  ,  3576  ,  3716  ,  3792  ,  3814  ,  3894  ,  3900  ,  3915  ,  3951  ,  4229  ,  4311  ,  4427  ,  4496  ,  4565  ,  4593  ,  4614  ,  4739  ,  4866  ,  4994  ,  5080  ,  5245  ,  5270  ,  5489  ,  5501  ,  5552  ,  5607  ,  5645  ,  5702  ,  5746  ,  5965  ,  5998  ,  6113  ,  6285  ,  6376  ,  6437  ,  6515  ,  6689  ,  6869  ,  6904  ,  7083  ,  7172  ,  7796  ,  8145  ,  8399  ,  8448  ,  8632  ,  8800  ,  8811  ,  8846  ,  8895  ,  
+POI Name: York University  | POI IDs:  
+857  ,  4706  ,  
+POI Name: DAVIDsTEA  | POI IDs:  
+5714  ,  6349  ,  6499  ,  
+POI Name: Artisano Bakery Cafe  | POI IDs:  
+5716  ,  6030  ,  
+POI Name: Sunset Grill  | POI IDs:  
+613  ,  4943  ,  5033  ,  5755  ,  5992  ,  6156  ,  7029  ,  7458  ,  7681  ,  7736  ,  8156  ,  8162  ,  
+POI Name: Dental Centre  | POI IDs:  
+5816  ,  8163  ,  
+POI Name: Rexall PharmaPlus  | POI IDs:  
+320  ,  773  ,  826  ,  1331  ,  1468  ,  2523  ,  2661  ,  2767  ,  2839  ,  3229  ,  3236  ,  3737  ,  3739  ,  3775  ,  
+POI Name: Williams  | POI IDs:  
+6880  ,  6947  ,  
+POI Name: Evans Wash & Gas  | POI IDs:  
+5854  ,  6049  ,  
+POI Name: Sushi House  | POI IDs:  
+1889  ,  3839  ,  
+POI Name: The UPS Store  | POI IDs:  
+2605  ,  3305  ,  3374  ,  3956  ,  4295  ,  4689  ,  5160  ,  5510  ,  6269  ,  6525  ,  6821  ,  7070  ,  7587  ,  7871  ,  8084  ,  8170  ,  
+POI Name: Booster Juice  | POI IDs:  
+1784  ,  2090  ,  3483  ,  3653  ,  3912  ,  4327  ,  4369  ,  5010  ,  6480  ,  6685  ,  7271  ,  7357  ,  7461  ,  7723  ,  8159  ,  8258  ,  
+POI Name: BMO  | POI IDs:  
+652  ,  1690  ,  2561  ,  2766  ,  3277  ,  4277  ,  4312  ,  4409  ,  4429  ,  4437  ,  5502  ,  5506  ,  5539  ,  6327  ,  6903  ,  7109  ,  7413  ,  7956  ,  8777  ,  
+POI Name: DQ Restaurant  | POI IDs:  
+6019  ,  6360  ,  7982  ,  8697  ,  
+POI Name: San Francesco Foods  | POI IDs:  
+5252  ,  7460  ,  
+POI Name: Coffee Balzac's Roasters  | POI IDs:  
+6041  ,  6863  ,  
+POI Name: Little Caesars Pizza  | POI IDs:  
+6044  ,  7639  ,  8034  ,  
+POI Name: hot dog stand  | POI IDs:  
+6074  ,  8366  ,  8427  ,  
+POI Name: Freshii  | POI IDs:  
+3619  ,  3620  ,  4256  ,  4298  ,  4655  ,  5063  ,  7415  ,  7492  ,  8810  ,  
+POI Name: Rexall  | POI IDs:  
+1771  ,  2064  ,  2810  ,  3397  ,  3400  ,  4198  ,  4430  ,  4568  ,  4720  ,  4904  ,  5394  ,  5560  ,  5918  ,  8117  ,  8851  ,  
+POI Name: AppleOne Employment  | POI IDs:  
+6116  ,  7380  ,  
+POI Name: Dental Office  | POI IDs:  
+4024  ,  4663  ,  5413  ,  5475  ,  6287  ,  6838  ,  7784  ,  8373  ,  8474  ,  8621  ,  
+POI Name: Mercatto  | POI IDs:  
+3736  ,  4808  ,  
+POI Name: Grapevine Solutions  | POI IDs:  
+6793  ,  6794  ,  
+POI Name: FedEx  | POI IDs:  
+1539  ,  6801  ,  8525  ,  
+POI Name: Foreign Exchange  | POI IDs:  
+4201  ,  4973  ,  
+POI Name: Wild Wings  | POI IDs:  
+6015  ,  7597  ,  8083  ,  
+POI Name: Little Caesars  | POI IDs:  
+4683  ,  5529  ,  5703  ,  8142  ,  
+POI Name: Appletree Medical Centre  | POI IDs:  
+6265  ,  7861  ,  8395  ,  8520  ,  
+POI Name: Szechuan Szechuan  | POI IDs:  
+2409  ,  7839  ,  
+POI Name: Golden Griddle Family Restaurant  | POI IDs:  
+3550  ,  7372  ,  
+POI Name: Kentucky Fried Chicken  | POI IDs:  
+234  ,  828  ,  3262  ,  5273  ,  5306  ,  
+POI Name: The Wicket  | POI IDs:  
+4314  ,  4578  ,  
+POI Name: DriveTest  | POI IDs:  
+6382  ,  6543  ,  7394  ,  
+POI Name: Umi Sushi Express  | POI IDs:  
+4455  ,  7277  ,  
+POI Name: Yogen Fruz  | POI IDs:  
+4204  ,  4297  ,  
+POI Name: Sushi 2 Go  | POI IDs:  
+6424  ,  7012  ,  
+POI Name: Dupont  | POI IDs:  
+97  ,  136  ,  137  ,  
+POI Name: Avis  | POI IDs:  
+1917  ,  2155  ,  3865  ,  4389  ,  8672  ,  
+POI Name: Pharma Plus  | POI IDs:  
+6444  ,  8047  ,  
+POI Name: Famoso  | POI IDs:  
+6482  ,  7114  ,  
+POI Name: Pizza Hut  | POI IDs:  
+1047  ,  1302  ,  1386  ,  1706  ,  2045  ,  2195  ,  2204  ,  2210  ,  2241  ,  3263  ,  3312  ,  3366  ,  4290  ,  4743  ,  4780  ,  4781  ,  4782  ,  4783  ,  4784  ,  4848  ,  4942  ,  5118  ,  5463  ,  6653  ,  
+POI Name: Bourbon St. Grill  | POI IDs:  
+4454  ,  6663  ,  
+POI Name: Bamboo Legend  | POI IDs:  
+6646  ,  7392  ,  
+POI Name: Mary Brown's  | POI IDs:  
+6831  ,  8051  ,  
+POI Name: Five Guys Burgers and Fries  | POI IDs:  
+6655  ,  8079  ,  8686  ,  
+POI Name: Milestones  | POI IDs:  
+3156  ,  3271  ,  6002  ,  8668  ,  
+POI Name: Cafeteria  | POI IDs:  
+7265  ,  7447  ,  
+POI Name: Queen's Quay - Ferry Docks  | POI IDs:  
+389  ,  3706  ,  3707  ,  
+POI Name: Willowdale Baptist Church  | POI IDs:  
+7223  ,  7224  ,  
+POI Name: La Felicita  | POI IDs:  
+6699  ,  8271  ,  
+POI Name: Pizzaville  | POI IDs:  
+2156  ,  2920  ,  3095  ,  3126  ,  5056  ,  5237  ,  6029  ,  6604  ,  6834  ,  7238  ,  7653  ,  7799  ,  8053  ,  8859  ,  
+POI Name: Mmmuffins  | POI IDs:  
+768  ,  2874  ,  
+POI Name: Eggsmart  | POI IDs:  
+4571  ,  4601  ,  5820  ,  7755  ,  8806  ,  
+POI Name: Polish Credit Union  | POI IDs:  
+7016  ,  7390  ,  
+POI Name: Hero Certified Burgers  | POI IDs:  
+572  ,  984  ,  1248  ,  1815  ,  2549  ,  3056  ,  4031  ,  4154  ,  4299  ,  4323  ,  4587  ,  4786  ,  5255  ,  6236  ,  6673  ,  6917  ,  7262  ,  7441  ,  7497  ,  7763  ,  7887  ,  8120  ,  8161  ,  8244  ,  8965  ,  8968  ,  
+POI Name: Quick Pita  | POI IDs:  
+2705  ,  4191  ,  
+POI Name: 5343 & 5353 Dundas Street West  | POI IDs:  
+7377  ,  7378  ,  
+POI Name: Gino's Pizza  | POI IDs:  
+1639  ,  2032  ,  4346  ,  4993  ,  5708  ,  5893  ,  6006  ,  6020  ,  6241  ,  6293  ,  6350  ,  8242  ,  8308  ,  
+POI Name: Timothy's World Coffee  | POI IDs:  
+774  ,  974  ,  1133  ,  1643  ,  2124  ,  2213  ,  2227  ,  2721  ,  3142  ,  3151  ,  3591  ,  3643  ,  4054  ,  4197  ,  4379  ,  4485  ,  4715  ,  4721  ,  6503  ,  8426  ,  
+POI Name: eggsmart  | POI IDs:  
+7371  ,  8030  ,  
+POI Name: Shinhan Bank  | POI IDs:  
+7193  ,  8331  ,  
+POI Name: U-Haul  | POI IDs:  
+3295  ,  4101  ,  6436  ,  
+POI Name: Beaver  | POI IDs:  
+1071  ,  1604  ,  
+POI Name: 94 Cumberland Street parking  | POI IDs:  
+7542  ,  7543  ,  
+POI Name: Union Social Eatery  | POI IDs:  
+7553  ,  8338  ,  
+POI Name: Summerhill  | POI IDs:  
+190  ,  273  ,  
+POI Name: Tim Hortons/Cold Stone Creamery  | POI IDs:  
+4011  ,  5699  ,  6867  ,  
+POI Name: Hot dog stand  | POI IDs:  
+3658  ,  3675  ,  7443  ,  7517  ,  7679  ,  
+POI Name: SBI Canada  | POI IDs:  
+4770  ,  7999  ,  
+POI Name: Bier Markt  | POI IDs:  
+2592  ,  5939  ,  6353  ,  
+POI Name: Shoppers Drug Mart  | POI IDs:  
+88  ,  248  ,  268  ,  289  ,  338  ,  342  ,  386  ,  417  ,  431  ,  438  ,  449  ,  455  ,  482  ,  507  ,  536  ,  637  ,  694  ,  696  ,  853  ,  905  ,  923  ,  951  ,  1006  ,  1020  ,  1046  ,  1096  ,  1102  ,  1106  ,  1121  ,  1124  ,  1140  ,  1252  ,  1283  ,  1292  ,  1301  ,  1310  ,  1324  ,  1325  ,  1335  ,  1346  ,  1378  ,  1406  ,  1430  ,  1448  ,  1465  ,  1478  ,  1507  ,  1587  ,  1590  ,  1596  ,  1613  ,  1623  ,  1634  ,  1648  ,  1686  ,  1762  ,  1900  ,  1963  ,  2043  ,  2055  ,  2066  ,  2070  ,  2088  ,  2118  ,  2143  ,  2166  ,  2187  ,  2277  ,  2341  ,  2363  ,  2375  ,  2379  ,  2438  ,  2580  ,  2598  ,  2685  ,  2713  ,  2724  ,  2729  ,  2745  ,  2756  ,  2768  ,  2791  ,  2886  ,  3087  ,  3088  ,  3167  ,  3187  ,  3188  ,  3195  ,  3281  ,  3323  ,  3363  ,  3369  ,  3443  ,  3489  ,  3496  ,  3539  ,  3622  ,  3698  ,  3866  ,  3923  ,  4085  ,  4110  ,  4120  ,  4168  ,  4260  ,  4272  ,  4465  ,  4711  ,  4740  ,  4938  ,  5057  ,  5300  ,  5324  ,  5345  ,  5348  ,  5433  ,  5447  ,  5562  ,  5575  ,  5706  ,  5736  ,  5740  ,  5742  ,  5763  ,  5787  ,  5916  ,  5926  ,  6025  ,  6047  ,  6100  ,  6132  ,  6275  ,  6372  ,  6497  ,  6598  ,  7022  ,  7341  ,  7398  ,  7410  ,  7422  ,  7714  ,  7730  ,  8055  ,  8062  ,  8088  ,  8168  ,  8169  ,  8477  ,  8524  ,  8538  ,  8546  ,  8611  ,  8669  ,  8734  ,  8755  ,  8814  ,  8826  ,  8858  ,  8929  ,  8978  ,  8980  ,  
+POI Name: Yummi's  | POI IDs:  
+7710  ,  7818  ,  
+POI Name: Scotia Bank  | POI IDs:  
+7715  ,  7840  ,  
+POI Name: South Street Burger  | POI IDs:  
+7737  ,  7756  ,  
